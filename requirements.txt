@@ -1,2 +1,5 @@
 asyncio
 websockets
+http
+socketserver
+threading
